@@ -10,31 +10,31 @@ from gtts import gTTS
 
 #tinkerbell
 cl = LINETCR.LINE()
-cl.login(token="EoVuB8BPLZ361feQEDB2.AFtwvpgKgF4aGbaxrNYtOG.gnwUU4fs4kzSenTyGtUmY6IrSsbXr0Q+1TVY+rooc+w=")
+cl.login(token="EsOJKiiKH0xJJLlG5Mt8.NyA+PG8TJV88Pn6FcTZmsa.OEAxvHQR4F1ViBDBYPhMfH13DsaJZ8UMnRN81q9cU0k=")
 cl.loginResult()
 
 kl = LINETCR.LINE()
-kl.login(token="EoQPLzNMKBwCTUKX9Plf.PgWcd0mXC+sSOS53KNUpVW./XIjysJGvpAHIymc1C8VNWN7SyPcyC/ydWqSE07LEx0=")
+kl.login(token="EshQkrisLjzWWoCJp396.KmPykel90yCItZ1HUpdRPG.Czdm1d4GCnn+ygePKe0WTjdjZzPCVM0+YvahHjjBtfg=")
 kl.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(token="EoNnCdfOfOHxyYqLjs56.zymlzJbwM+XZ4Kk6pPP8XG.fiiJn1YhgtC/MU+1TAOzOaguNQqktA5ESel3noDsDZs=")
+ki.login(token="EslwOmtab6Hhy9OOp3oe.cfU11NWrEakjPSDwvX5qpG.80ng4yQ1FoQqoQZL0gfk7vREc0wP8X6otebDea9GQ8g=")
 ki.loginResult()
 
 kk = LINETCR.LINE()
-kk.login(token="EoMeyDp7UOFtZOR7OUO8.91v7edF4lfcy/liH7WM9wa.KhESafq3DuQXr3C3N5D9l5Qbb52qzo3R42Vr+eayy9A=")
+kk.login(token="Esju2wqZ3xuEaQh6hrNa.IYbKi80JSiOSiZ8cwc/CIG.XQDtGxmWh1W0WgERgbyBI+sVovpmI9rnfDUnX2XKadw=")
 kk.loginResult()
 
 kc = LINETCR.LINE()
-kc.login(token="EoKn4QhtOvagiB9c4vzf.EPWaXE/AR3dIwC69vjGytW.GUVP2gHH/EqyqqSyPmnIYY5/jSzwDznryV2JgKQH1Uc=")
+kc.login(token="Es5EQaL3X6eMkKKPRwr5.MRaGSrBZwVVBm5JYV/jhXq.4WF4N7STz4m8SwZXBDgXnhUH3IqjYdgdTmeugTvkqD8=")
 kc.loginResult()
 
 ks = LINETCR.LINE()
-ks.login(token="EoNBsGdjLtzeCjrXcYve.T1R7UN6+vMA26c92eUOzhG.iWR47plOcurWJaYYhqNLHVeKtOWjLrggVIW2RWV4bFM=")
+ks.login(token="Es2lZnIuRRsfwVkcowc6.za+e5svtVOOkvtLheQuILG.aMPnj41BA9jKAvE+9xwkAIY+lYtdBl1AZGsBW13hhv4=")
 ks.loginResult()
 
 kt = LINETCR.LINE()
-kt.login(token="Eo3p3e36BkY00HPRc8X2.DtDhZcZhKE1JTy53GqDbuG.36J+sLczcrYkb7zzGJvuXM53mnfyddyMtubOv7ucmws=")
+kt.login(token="Es2D865WpytvWmv9MFx0.iBuGmRcpaRydqClemgvK8a.ovZWSvHYIjd5fwP6Kq4NGCafigUTAbp2KZ8MieU4oY4=")
 kt.loginResult()
 
 #kicker ghost
@@ -47,7 +47,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 helpMessage= """╬═══════════════════╗
-╠     ✍️ᴍᴏᴅɪғɪᴇʀ✍️
+╠     
 ╠❂͜͡➣ Bot1 rename:[text]
 ╠❂͜͡➣ Bot2 rename:[text]
 ╠❂͜͡➣ Bot3 rename:[text]
@@ -69,13 +69,13 @@ helpMessage= """╬═══════════════════╗
 ╠❂͜͡➣ Group name:[text]
 ╬═══════════════════╝
 ╬═══════════════════╗
-╠     ✍️ᴘʀᴏᴍᴏᴛᴇ/ᴅᴇᴍᴏᴛᴇ✍️
+╠     
 ╠❂͜͡➣ Admin on @[name]
 ╠❂͜͡➣ Expel on @[name]
 ╠❂͜͡➣ Expelall
 ╬═══════════════════╝
 ╬═══════════════════╗
-╠     ✍️sᴛᴇᴀʟɪɴɢ✍️
+╠     
 ╠❂͜͡➣ Steal name    @[name]
 ╠❂͜͡➣ Steal Bio     @[name]
 ╠❂͜͡➣ Steal status  @[name]
@@ -89,12 +89,12 @@ helpMessage= """╬═══════════════════╗
 ╠❂͜͡➣ Kembali ke asli
 ╬═══════════════════╝
 ╬═══════════════════╗
-╠     ✍️ɢᴜᴀʀᴅ ᴍᴏᴅᴇ✍️
+╠     
 ╠❂͜͡➣ Protect:low
 ╠❂͜͡➣ Protect:hight
 ╬═══════════════════╝
 ╬═══════════════════╗
-╠     ✍️ᴍᴀʀᴋ ᴛᴏ ʟɪsᴛ✍️
+╠     
 ╠❂͜͡➣ Ban    @[name]
 ╠❂͜͡➣ Unban  @[name]
 ╠❂͜͡➣ Ban group:
@@ -118,7 +118,7 @@ helpMessage= """╬═══════════════════╗
 ╠❂͜͡➣ Vid
 ╬═══════════════════╝
 ╬═══════════════════╗
-╠     ✍️ɪɴᴠɪᴛᴀᴛɪᴏɴ✍️
+╠     
 ╠❂͜͡➣ Invite:[mid]
 ╠❂͜͡➣ Invite user[contact]
 ╠❂͜͡➣ Invite me
@@ -126,7 +126,7 @@ helpMessage= """╬═══════════════════╗
 ╠❂͜͡➣ Join group
 ╬═══════════════════╝
 ╬═══════════════════╗
-╠     ✍️ʟᴇᴀᴠᴇ ɢʀᴏᴜᴘ✍️
+╠     
 ╠❂͜͡➣ Bot2   @bye
 ╠❂͜͡➣ Bot3   @bye
 ╠❂͜͡➣ Bot4   @bye
@@ -138,7 +138,7 @@ helpMessage= """╬═══════════════════╗
 ╠❂͜͡➣ Leave group:
 ╬═══════════════════╝
 ╬═══════════════════╗
-╠     ✍️ʙᴏᴛ ᴀᴜᴛᴏ sᴇᴛᴛɪɴɢs✍️
+╠     
 ╠❂͜͡➣ Auto join:on/off
 ╠❂͜͡➣ Auto leave:on/off
 ╠❂͜͡➣ Auto like:on/off
@@ -160,18 +160,18 @@ helpMessage= """╬═══════════════════╗
 ╠❂͜͡➣ Check welcome message
 ╬═══════════════════╝
 ╬═══════════════════╗
-╠     ✍️ᴄᴀɴᴄᴇʟ ᴍᴏᴅᴇ✍️
+╠     
 ╠❂͜͡➣ Rejectall
 ╠❂͜͡➣ Clean invites
 ╠❂͜͡➣ Clear invites
 ╬═══════════════════╝
 ╬═══════════════════╗
-╠     ✍️sᴜᴘʀɪsᴇ ɢɪғᴛ✍️
+╠     
 ╠❂͜͡➣ gift1-15
 ╠❂͜͡➣ Spam gift
 ╬═══════════════════╝
 ╬═══════════════════╗
-╠    ✍️ɴᴏᴛɪғɪᴄᴀᴛɪᴏɴ ʟɪsᴛ✍️
+╠    
 ╠❂͜͡➣ Group list
 ╠❂͜͡➣ Banlist
 ╠❂͜͡➣ Admin list
@@ -184,7 +184,7 @@ helpMessage= """╬═══════════════════╗
 ╠❂͜͡➣ Add all
 ╬═══════════════════╝
 ╬═══════════════════╗
-╠★ ᴋɪᴄᴋᴇʀ ᴍᴏᴅᴇ ★
+╠
 ╠❂͜͡➣ Cleanse
 ╠❂͜͡➣ Vkick @
 ╠❂͜͡➣ Nk [name]
@@ -194,7 +194,7 @@ helpMessage= """╬═══════════════════╗
 ╠❂͜͡➣ Recover
 ╬═══════════════════╝
 ╬═══════════════════╗
-╠     ✍️ᴄʜᴀᴛ ʀᴇʟᴀᴛᴇᴅ✍️
+╠     
 ╠❂͜͡➣ Spamg[on/off][no][txt]
 ╠❂͜͡➣ Spam add:[text]
 ╠❂͜͡➣ Spam change:[text]
@@ -218,7 +218,7 @@ helpMessage= """╬═══════════════════╗
 ╠❂͜͡➣ Mc:[mid]
 ╬═══════════════════╝
 ╬═══════════════════╗
-╠     ✍️ᴜᴛɪʟɪᴛʏ✍️
+╠     
 ╠❂͜͡➣ Lurking
 ╠❂͜͡➣ Lurking result
 ╠❂͜͡➣ Setlastpoint
@@ -230,7 +230,7 @@ helpMessage= """╬═══════════════════╗
 ╠❂͜͡➣ Bot restart
 ╬═══════════════════╝
 ╬═══════════════════╗
-╠     ✍️ᴄʜᴀᴛ ʀᴇʟᴀᴛᴇᴅ✍️
+╠     
 ╠❂͜͡➣ Lyric [][]
 ╠❂͜͡➣ Music [][]
 ╠❂͜͡➣ Wiki [text]
@@ -256,19 +256,19 @@ helpMessage= """╬═══════════════════╗
 ╠❂͜͡➣ Siapa
 ╬═══════════════════╝
 ╬═══════════════════╗
-╠     ✍️ʙʀᴏᴀᴅᴄᴀsᴛɪɴɢ✍️
+╠    
 ╠❂͜͡➣ Pm cast   [text]
 ╠❂͜͡➣ Broadcast [text]
 ╠❂͜͡➣ Spam @[name]
 ╬═══════════════════╝
 ╬═══════════════════╗
-╠     ✍️sᴘᴇᴄɪᴀʟ ᴄᴏᴍᴍᴀɴᴅ	
+╠    
 ╠❂͜͡➣ Turn off bots	
 ╬═══════════════════╝
 ╬═══════════════════╗ 
-╠         sᴜᴘᴘᴏʀᴛ ʙʏ
+╠         
 ╠
-╠      Rαпɢɢα-Bσт-Tεαмƨ   
+╠        
 ╬═══════════════════╝
 """
 KAC=[cl,ki,kk,kc,ks,kt]
@@ -287,12 +287,12 @@ autocancel = {}
 autoinvite = []
 autoleaveroom = []
 targets = []
-Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid]
-admin = ["u69f4d654f1a419fe00801017467c93a2"]
-owner = ["u69f4d654f1a419fe00801017467c93a23"]
-Creator = ["u69f4d654f1a419fe00801017467c93a2"]
-creator = ["u69f4d654f1a419fe00801017467c93a2"]
-Owner = ["u69f4d654f1a419fe00801017467c93a2"]
+Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,"u67acbba40f5d7983bd60c200e92456e9"]
+admin = ["u67acbba40f5d7983bd60c200e92456e9"]
+owner = ["u67acbba40f5d7983bd60c200e92456e9"]
+Creator = ["u67acbba40f5d7983bd60c200e92456e9"]
+creator = ["u67acbba40f5d7983bd60c200e92456e9"]
+Owner = ["u67acbba40f5d7983bd60c200e92456e9"]
 
 wait = {
     'contact':False,
@@ -301,7 +301,7 @@ wait = {
     'leaveRoom':False,
     'timeline':True,
     'autoAdd':False,
-    'message':"Thanks for add Me\n\nby Rαпɢɢα-Bσт-Tεαмƨ",
+    'message':"Thanks for add Me\n\nby phantom ghost",
     "lang":"JP",
     "comment":"AutoLike by Ranggabot Team",
     "welmsg":"welcome to group",
